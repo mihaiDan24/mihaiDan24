@@ -1,10 +1,7 @@
 title: Mihai Dan
 
-#theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
-remote_theme: abhinavs/moonwalk
-
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
 
-sass:
-  style: :compressed
+#theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
+remote_theme: abhinavs/moonwalk
