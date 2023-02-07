@@ -8,14 +8,14 @@ This is my description
 # 
 # Games
 
-## Memory Card Game
-<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture7.png?raw=true" style="float:right" align = "right" width="300">
+## Memory Card Game 
+<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture7.png?raw=true" style="float:right" align = "right" width="300"> 
  - Platform: Windows <img class="pull-center"  src="https://th.bing.com/th/id/R.d19e43831fdcb56c6e67202a9a2e067d?rik=FjWpbvUUdG1GCg&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fmartz90%2fcircle%2f512%2fwindows-8-icon.png&ehk=U6tNhb%2bBeTfNn0nAOlPk4kq0fMBCocoV03riVFQ5Cu8%3d&risl=&pid=ImgRaw&r=0" style="float:center" width="30">
  - Game Engine: Unity 3D 
  - Scripting: C# <img class="pull-center"  src="https://iconape.com/wp-content/png_logo_vector/c.png" style="float:center" width="30">
  - Goal: find all the matching cards
 
-"The purpose of this memory game is to memorize the locations of the cards in the game and to **make pairs** of cards by turning them over 2 by 2. When the 2 cards match, it's a pair!"  
+The purpose of this memory game is to memorize the locations of the cards in the game and to **make pairs** of cards by turning them over 2 by 2. When the 2 cards match, it's a pair!  
 
 ## Get Out of the Woods
 <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture21.png?raw=true" align="right" width="300">
