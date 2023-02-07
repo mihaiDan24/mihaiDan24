@@ -57,6 +57,9 @@ They are trying to prevent him from gathering resources.
 
 Play a virtual game in the real world. Scope: reach the top of the building by jumping on platforms. Get the highest score. Keep your time low. Beware of enemies!
 
+#### Gameplay
+This game is built for Android. The player's movement is controlled by the phone's accelerometer. The player will jump when the screen is pressed. The player will be attacked and pushed by an enemy when he reaches its platform. On the way to the top, the player is timed and can collect coins.
+
 ## Smart traffic light system
 <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture1.png?raw=true" style="float:right" align="right" width="400">
 The aim of this application was to implement a method of decongestion by adapting the sequence of traffic lights to current traffic conditions. This was achieved by using artificial intelligence algorithms. The application also offers the possibility to test real traffic scenarios by retrieving real traffic data from real intersections and simulating them in a realistic 3D environment. By simulating the data, the app provides and enforces the best traffic light policy that minimizes traffic light waiting time and maximizes the number of cars passing through the intersection. The 3D environment was designed in Unity 3D, the behavior has been defined by C# scripts and the simulation and artificial intelligence algorithms were developed in Python.
