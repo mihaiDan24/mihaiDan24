@@ -1,7 +1,7 @@
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/programming-skills-1946874-1649524.png" align="right" width="400">
 This is my description
 
-### Contact:
+### Contact: 
 <a href="https://ro.linkedin.com/in/mihai-dan-239a3b185/ro?trk=people-guest_people_search-card"> <img src="https://th.bing.com/th/id/R.c3fcc390427d68b89647e834adf7fc87?rik=5W%2fa9g9fys8WDg&pid=ImgRaw&r=0" align="left" width=30></a> <img src="https://th.bing.com/th/id/R.19d40165c86c2e3c7ac1cfc4884b4f91?rik=3uyunXBvJvXjeA&pid=ImgRaw&r=0" align="left" width="32.5" title="mihaidan24@gmail.com"> 
 
 
@@ -66,13 +66,11 @@ The aim of this application was to implement a method of decongestion by adaptin
 
 ## Baikal MP-133 Shotgun
 
-Model: high-poly
-Tris: 11038
-Verts: 5566
-<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture8.png?raw=true" style="float:right" align="left" width="340"> 
+<pre> Model: high-poly </pre> 
+<pre> Tris: 11038 </pre> 
+<pre> Verts: 5566 </pre> 
 <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture9.png?raw=true" style="float:right" align="rigth" width="300"> 
-<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture10.png?raw=true" style="float:right" align="left" width="300">
-<img class="pull-center"  src="https://github.com/SabiSabb/Games/blob/main/Picture11.png?raw=true" align="rigth" width="300">
+<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture10.png?raw=true" style="float:right" align="left" width="300"> 
 
 ## Magnum 357 Bullet
 
