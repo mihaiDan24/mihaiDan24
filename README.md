@@ -4,12 +4,12 @@ This is my description
 ### Contact: 
 <a href="https://ro.linkedin.com/in/mihai-dan-239a3b185/ro?trk=people-guest_people_search-card"> <img src="https://th.bing.com/th/id/R.c3fcc390427d68b89647e834adf7fc87?rik=5W%2fa9g9fys8WDg&pid=ImgRaw&r=0" align="left" width=30></a> <img src="https://th.bing.com/th/id/R.19d40165c86c2e3c7ac1cfc4884b4f91?rik=3uyunXBvJvXjeA&pid=ImgRaw&r=0" align="left" width="32.5" title="mihaidan24@gmail.com"> 
 
-
+# 
 # Games
 
 ## Memory Card Game 
-<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture7.png?raw=true" style="float:right" align = "right" width="300"> 
- - Platform: Windows <img class="pull-center"  src="https://th.bing.com/th/id/R.d19e43831fdcb56c6e67202a9a2e067d?rik=FjWpbvUUdG1GCg&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fmartz90%2fcircle%2f512%2fwindows-8-icon.png&ehk=U6tNhb%2bBeTfNn0nAOlPk4kq0fMBCocoV03riVFQ5Cu8%3d&risl=&pid=ImgRaw&r=0" style="float:center" width="30">
+ <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture7.png?raw=true" style="float:right" align = "right" width="300"> 
+ - Platform: Windows <img class="pull-center"  src="https://th.bing.com/th/id/R.d19e43831fdcb56c6e67202a9a2e067drik=FjWpbvUUdG1GCg&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fmartz90%2fcircle%2f512%2fwindows8-icon.png&ehk=U6tNhb%2bBeTfNn0nAOlPk4kq0fMBCocoV03riVFQ5Cu8%3d&risl=&pid=ImgRaw&r=0" style="float:center" width="30">
  - Game Engine: Unity 3D 
  - Scripting: C# <img class="pull-center"  src="https://iconape.com/wp-content/png_logo_vector/c.png" style="float:center" width="30">
  - Goal: find all the matching cards
