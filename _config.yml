@@ -12,8 +12,7 @@ theme_repository: "https://github.com/luxedo/jekyll-theme-potato-hacker"
 theme_base: "dark"       # Theme palette (light | dark)
 theme_switch: on         # Show color switch (on | off)
 
-avatar: on  
-highlighter_theme: monokai
+avatar: on 
 
 #remote_theme: pages-themes/midnight@v0.2.0
 #plugins:
