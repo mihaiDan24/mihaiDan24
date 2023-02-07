@@ -1,4 +1,3 @@
-
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/programming-skills-1946874-1649524.png" align="right" width="400">
 This is my description
 
