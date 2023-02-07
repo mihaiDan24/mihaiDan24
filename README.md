@@ -69,8 +69,10 @@ The aim of this application was to implement a method of decongestion by adaptin
 <pre> Model: high-poly </pre> 
 <pre> Tris: 11038 </pre> 
 <pre> Verts: 5566 </pre> 
-<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture9.png?raw=true" style="float:right" align="rigth" width="300"> 
-<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture10.png?raw=true" style="float:right" align="left" width="300"> 
+
+<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture9.png?raw=true" style="float:right" align="center" width="300">
+<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture10.png?raw=true" style="float:right" align="right" width="300">
+
 
 ## Magnum 357 Bullet
 
