@@ -34,8 +34,7 @@ Jimmy must come back before the forest creatures find him.
 
 They are trying to prevent him from gathering resources.
 
-<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture5.png?raw=true" style="float:right" align = "right" width="300"> 
-<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture4.png?raw=true" style="float:right" align="right" width="335"> 	
+<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture5.png?raw=true" style="float:right" align = "right" width="300">
 
  **Player:**
  
@@ -44,7 +43,8 @@ They are trying to prevent him from gathering resources.
 	 - can collect resources
 	 - can pick up and use different weapons
 	 - can hunt rabbits to increase health
-
+	 
+<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture4.png?raw=true" style="float:right" align="right" width="335"> 
 
 ## Jump Around
  <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture3.png?raw=true" style="float:right" align="right" width="300"> 
