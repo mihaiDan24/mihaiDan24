@@ -25,9 +25,9 @@ This is my description
  - Goal: find your way back home through the forest.
  
 ### The plot
-<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture6.png?raw=true" style="float:right" align="right" width="300"> Little Jimmy crossed the old bridge and now he is lost in the forest. The bridge fell behind him and it needs to be rebuilt.
-Now Jimmy has to find his way back home. Also he must collect the necessary resources to repair the bridge.
-Jimmy must come back before the forest creatures find him. 
+<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture6.png?raw=true" style="float:right" align="right" width="300"> The player crossed the old bridge and now he is lost in the forest. The bridge fell behind him and it needs to be rebuilt.
+Now he has to find his way back home. Also he must collect the necessary resources to repair the bridge.
+The player must come back before the forest creatures find him. 
 
 ## The Game
 **Enemy:** AI based, will hunt the player all over the map.
