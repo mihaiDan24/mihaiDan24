@@ -73,7 +73,7 @@ The aim of this application was to implement a method of decongestion by adaptin
 <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture9.png?raw=true" style="float:right" align="center" width="300">
 <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture10.png?raw=true" style="float:right" align="right" width="300">
 
-
+# 
 ## Magnum 357 Bullet
 
  <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture14.png?raw=true" style="float:right" align="right" width="300">
