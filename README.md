@@ -71,18 +71,16 @@ The aim of this application was to implement a method of decongestion by adaptin
 <pre> Verts: 5566 </pre> 
 
 <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture9.png?raw=true" style="float:right" align="center" width="300">
-<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture10.png?raw=true" style="float:right" align="right" width="300">
+<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture10.png?raw=true" style="float:right" align="right" width="300"> 
 
-# 
+
 ## Magnum 357 Bullet
-
- <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture14.png?raw=true" style="float:right" align="right" width="300">
  
 <pre> Model: high-poly    Model: low-poly </pre>
 <pre> Tris: 1240                Tris: 840 </pre>
 <pre> Verts: 622                Verts: 442 </pre>
 
-<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture12.png?raw=true" style="float:right" width="300"> <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture13.png?raw=true" style="float:right" align="right" width="300" height="465">
+<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture12.png?raw=true" style="float:right" width="300">
 
 ### Render (Substance Painter)
 <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture15.png?raw=true" style="float:right" align="middle" width="300">
@@ -93,9 +91,9 @@ The aim of this application was to implement a method of decongestion by adaptin
 <pre> Tris: 6630                Tris: 902 </pre>
 <pre> Verts: 3350               Verts: 464 </pre>
 
- <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture17.png?raw=true" style="float:right" width="300"><img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture16.png?raw=true" style="float:right" align="right" width="300" height="400">
+ <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture16.png?raw=true" style="float:right" align="right" width="300" height="400">
 
 ### Render (Substance Painter)
- <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture18.jpg?raw=true" style="float:right" align="left" width="300"> <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture19.jpg?raw=true" style="float:right" align="middle" width="300"> <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture20.jpg?raw=true" style="float:right" align="left" width="300">
+ <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture20.jpg?raw=true" style="float:right" align="left" width="300">
  
  
