@@ -78,9 +78,9 @@ The aim of this application was to implement a method of decongestion by adaptin
 
  <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture14.png?raw=true" style="float:right" align="right" width="300">
  
-### Model: high-poly    Model: low-poly
-Tris: 1240                Tris: 840
-Verts: 622                Verts: 442
+<pre> Model: high-poly    Model: low-poly </pre>
+<pre> Tris: 1240                Tris: 840 </pre>
+<pre> Verts: 622                Verts: 442 </pre>
 
 <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture12.png?raw=true" style="float:right" width="300"> <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture13.png?raw=true" style="float:right" align="right" width="300" height="465">
 
@@ -89,9 +89,9 @@ Verts: 622                Verts: 442
 
 ## Thor’s Hammer
 
-### Model: high-poly    Model: low-poly
-Tris: 6630                Tris: 902
-Verts: 3350               Verts: 464
+<pre> Model: high-poly    Model: low-poly </pre>
+<pre> Tris: 6630                Tris: 902 </pre>
+<pre> Verts: 3350               Verts: 464 </pre>
 
  <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture17.png?raw=true" style="float:right" width="300"><img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture16.png?raw=true" style="float:right" align="right" width="300" height="400">
 
