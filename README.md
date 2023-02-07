@@ -80,10 +80,10 @@ The aim of this application was to implement a method of decongestion by adaptin
 <pre> Tris: 1240                Tris: 840 </pre>
 <pre> Verts: 622                Verts: 442 </pre>
 
-<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture12.png?raw=true" style="float:right" width="300">
+<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture12.png?raw=true" style="float:right" align="right" width="300">
 
 ### Render (Substance Painter)
-<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture15.png?raw=true" style="float:right" align="middle" width="300">
+<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture15.png?raw=true" style="float:right" align="middle" align="left" width="300">
 
 ## Thor’s Hammer
 
