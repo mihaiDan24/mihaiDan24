@@ -73,18 +73,18 @@ The aim of this application was to implement a method of decongestion by adaptin
 
 ## Magnum 357 Bullet
  
-- Model: high-poly    Model: low-poly
-- Tris: 1240                Tris: 840
-- Verts: 622                Verts: 442
+- Model: high-poly  ->  Model: low-poly
+- Tris: 1240        ->       Tris: 840
+- Verts: 622        ->        Verts: 442
 
 ### Render (Substance Painter)
 <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture15.png?raw=true" style="float:right" align="middle" align="left" width="300">
 
 ## Thor’s Hammer
 
-- Model: high-poly    Model: low-poly
-- Tris: 6630                Tris: 902
-- Verts: 3350               Verts: 464
+- Model: high-poly  ->  Model: low-poly
+- Tris: 6630        ->        Tris: 902
+- Verts: 3350       ->        Verts: 464
 
 ### Render (Substance Painter)
  <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture20.jpg?raw=true" style="float:right" align="left" width="300">
