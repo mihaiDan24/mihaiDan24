@@ -4,6 +4,7 @@ This is my description
 ### Contact:
 <a href="https://ro.linkedin.com/in/mihai-dan-239a3b185/ro?trk=people-guest_people_search-card"> <img src="https://th.bing.com/th/id/R.c3fcc390427d68b89647e834adf7fc87?rik=5W%2fa9g9fys8WDg&pid=ImgRaw&r=0" align="left" width=30></a> <img src="https://th.bing.com/th/id/R.19d40165c86c2e3c7ac1cfc4884b4f91?rik=3uyunXBvJvXjeA&pid=ImgRaw&r=0" align="left" width="32.5" title="mihaidan24@gmail.com">
 
+#  
 
 # Games
 
@@ -41,8 +42,8 @@ They are trying to prevent him from gathering resources.
 	 - has an inventory system
 	 - can interact with NPCs
 	 - can collect resources
-	 - can pick up weapons
-	 - can hunt rabbits to increase life
+	 - can pick up and use different weapons
+	 - can hunt rabbits to increase health
 
 
 ## Jump Around
