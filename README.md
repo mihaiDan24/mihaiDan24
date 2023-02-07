@@ -49,22 +49,22 @@ Jimmy must come back before the forest creatures find him.
 
 
 ## Jump Around
- <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture3.png?raw=true" style="float:right" align="right" width="300"></img> 
- - Platform: Android <img class="pull-center"  src="https://th.bing.com/th/id/R.d83013e64c603607db7afef7b0dca538?rik=7qx1bwNU4huynA&pid=ImgRaw&r=0" style="float:center" width="30"></img> 
+ <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture3.png?raw=true" style="float:right" align="right" width="300"> 
+ - Platform: Android <img class="pull-center"  src="https://th.bing.com/th/id/R.d83013e64c603607db7afef7b0dca538?rik=7qx1bwNU4huynA&pid=ImgRaw&r=0" style="float:center" width="30"> 
  - Game Engine: Unity 3D
- - Scripting: C# <img class="pull-center"  src="https://iconape.com/wp-content/png_logo_vector/c.png" style="float:center" width="30"></img>  
+ - Scripting: C# <img class="pull-center"  src="https://iconape.com/wp-content/png_logo_vector/c.png" style="float:center" width="30">  
  - ARCore: plane detection
  
 
 
 ### The Game
-<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture2.png?raw=true" style="float:right" align="right" width="300"></img> 
+<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture2.png?raw=true" style="float:right" align="right" width="300"> 
 **Mobile AR platform game**
 
 Play a virtual game in the real world. Scope: reach the top of the building by jumping on platforms. Get the highest score. Keep your time low. Beware of enemies!
 
 ## Smart traffic light system
-<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture1.png?raw=true" style="float:right" align="right" width="400"></img>
+<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture1.png?raw=true" style="float:right" align="right" width="400">
 The aim of this application was to implement a method of decongestion by adapting the sequence of traffic lights to current traffic conditions. This was achieved by using artificial intelligence algorithms. The application also offers the possibility to test real traffic scenarios by retrieving real traffic data from real intersections and simulating them in a realistic 3D environment. By simulating the data, the app provides and enforces the best traffic light policy that minimizes traffic light waiting time and maximizes the number of cars passing through the intersection. The 3D environment was designed in Unity 3D, the behavior has been defined by C# scripts and the simulation and artificial intelligence algorithms were developed in Python.
 
 
@@ -76,24 +76,24 @@ The aim of this application was to implement a method of decongestion by adaptin
 <pre> Model: high-poly </pre>
 <pre> Tris: 11038 </pre>
 <pre> Verts: 5566 </pre>
-<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture8.png?raw=true" style="float:right" align="left" width="340"></img> 
-<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture9.png?raw=true" style="float:right" align="rigth" width="300"></img> 
-<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture10.png?raw=true" style="float:right" align="left" width="300"></img>
-<img class="pull-center"  src="https://github.com/SabiSabb/Games/blob/main/Picture11.png?raw=true" align="rigth" width="300"></img>
+<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture8.png?raw=true" style="float:right" align="left" width="340"> 
+<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture9.png?raw=true" style="float:right" align="rigth" width="300"> 
+<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture10.png?raw=true" style="float:right" align="left" width="300">
+<img class="pull-center"  src="https://github.com/SabiSabb/Games/blob/main/Picture11.png?raw=true" align="rigth" width="300">
 
 
 ## Magnum 357 Bullet
 
- <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture14.png?raw=true" style="float:right" align="right" width="300"></img> 
+ <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture14.png?raw=true" style="float:right" align="right" width="300">
  
  ### <pre> Model: high-poly    Model: low-poly</pre>
 <pre> Tris: 1240                Tris: 840</pre>
 <pre> Verts: 622                Verts: 442</pre> 
 
-<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture12.png?raw=true" style="float:right" width="300"></img> <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture13.png?raw=true" style="float:right" align="right" width="300" height="465"></img>
+<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture12.png?raw=true" style="float:right" width="300"> <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture13.png?raw=true" style="float:right" align="right" width="300" height="465">
 
 ### Render (Substance Painter)
-<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture15.png?raw=true" style="float:right" align="middle" width="300"></img>
+<img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture15.png?raw=true" style="float:right" align="middle" width="300">
 
 
 
@@ -103,9 +103,9 @@ The aim of this application was to implement a method of decongestion by adaptin
 <pre>Tris: 6630                Tris: 902</pre>
 <pre>Verts: 3350               Verts: 464 </pre>
 
- <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture17.png?raw=true" style="float:right" width="300"></img> <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture16.png?raw=true" style="float:right" align="right" width="300" height="400"></img>
+ <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture17.png?raw=true" style="float:right" width="300"><img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture16.png?raw=true" style="float:right" align="right" width="300" height="400">
 
  
 ### Render (Substance Painter)
- <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture18.jpg?raw=true" style="float:right" align="left" width="300"></img>    <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture19.jpg?raw=true" style="float:right" align="middle" width="300"></img> <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture20.jpg?raw=true" style="float:right" align="left" width="300"></img>
+ <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture18.jpg?raw=true" style="float:right" align="left" width="300"> <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture19.jpg?raw=true" style="float:right" align="middle" width="300"> <img class="pull-right"  src="https://github.com/SabiSabb/Games/blob/main/Picture20.jpg?raw=true" style="float:right" align="left" width="300">
 
